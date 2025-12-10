@@ -17,7 +17,7 @@
 
 ## 👋 About Me
 
-I'm a **passionate self-taught Frontend Web Developer** dedicated to crafting beautiful, accessible web interfaces. My journey began with YouTube tutorials and evolved into a thriving brand — **Dark CSS** — where I create real-world projects and share knowledge with a community of **175K+ developers** across social media.
+I'm a **passionate self-taught Frontend Web Developer** dedicated to crafting beautiful, accessible web interfaces. My journey began with YouTube tutorials and evolved into a thriving brand — **Dark CSS** — where I create real-world projects and share knowledge with a community of **200K+ developers** across social media.
 
 I believe in learning by doing, teaching by creating, and growing by sharing.
 
