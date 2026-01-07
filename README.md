@@ -5,7 +5,7 @@
 ### *Where Code Meets Creativity*
 
 [![Instagram](https://img.shields.io/badge/Instagram-86K+-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/darkcss77)
-[![Facebook](https://img.shields.io/badge/Facebook-100K+-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/darkcss77)
+[![Facebook](https://img.shields.io/badge/Facebook-107K+-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/darkcss77)
 [![TikTok](https://img.shields.io/badge/TikTok-19K+-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@darkcss77)
 [![Website](https://img.shields.io/badge/Website-Live-00C853?style=for-the-badge&logo=wordpress&logoColor=white)](https://darkcssweb.com)
 
